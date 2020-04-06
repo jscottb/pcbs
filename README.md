@@ -7,8 +7,8 @@ Just upload the zip file to the PCB maker of your choice.
 
 Board sizes:
 
-lil-naan   W: 41.5mm x H: 46.7 </br>
-Half-naan  W: 53.4mm x H: 70.9 </br>
-Full-naan  W: 56mm   x H: 96mm </br>
+lil-naan   W: 41.5mm x H: 46.7 <br>
+Half-naan  W: 53.4mm x H: 70.9 <br>
+Full-naan  W: 56mm   x H: 96mm <br>
 
 
