@@ -11,4 +11,7 @@ lil-naan   W: 41.5mm x H: 46.7 <br>
 Half-naan  W: 53.4mm x H: 70.9 <br>
 Full-naan  W: 56mm   x H: 96mm <br>
 
+Old Half-naan W: 58mm x H: 73mm <br>
+
+
 
