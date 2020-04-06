@@ -5,6 +5,8 @@ Usually, 13$USD for or so for 10 boards shipped, cheaper if it's your first tim
 
 Just upload the zip file to the PCB maker of your choice.
 
+I keep the sizes maxed at around 100mm to keep the cost down. Bords over 100mm in either direction cost a lot more to make. <br>
+
 Board sizes:
 
 lil-naan   W: 41.5mm x H: 46.7mm <br>
