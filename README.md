@@ -8,6 +8,8 @@ The XLRG Naan will run about 13$USD shipped for 5 boards.  It's almost 10cm x 2 
 Note: Some PCB makers have the size cap at 50mm before the price goes up per board. JLCPCB and PCBWay are 100mm before the per board increase. Always check as you enter the board info on the sellers site.
 
 Just upload the zip file to the PCB makers site of your choice.
+
+See the png files for what the boards look like. Note that the half-naan's lettering is wrong and has bee fixed in the gerbers in the zip file.
 <br>
 
 Board sizes:
