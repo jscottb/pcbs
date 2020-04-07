@@ -9,7 +9,7 @@ Note: Some PCB makers have the size cap at 50mm before the price goes up per boa
 
 Just upload the zip file to the PCB makers site of your choice.
 
-See the png files for what the boards look like. Note that the half-naan's lettering is wrong and has bee fixed in the gerbers in the zip file.
+See the png files for what the boards look like. Note that the half-naan's lettering is wrong and has been fixed in the gerbers included in the zip file.
 <br>
 
 Board sizes:
