@@ -12,10 +12,10 @@ Just upload the zip file to the PCB makers site of your choice.
 
 Board sizes:
 
-lil-naan   W: 41.5mm x H: 46.7mm <br>
-Half-naan  W: 53.4mm x H: 70.9mm <br>
-Full-naan  W: 56mm   x H: 96mm <br>
-Xlrg-naan  W: 99.3   x H: 96.9 <br>
+lil-naan   W: 41.5mm x H: 46.7mm - 180 linked holes + power rails and some extra non linked<br>
+Half-naan  W: 53.4mm x H: 70.9mm - 288 linked holes + power rails and some extra non linked<br>
+Full-naan  W: 56mm   x H: 96mm   - 408 linked holes + power rails and some extra non linked<br>
+Xlrg-naan  W: 99.3   x H: 96.9   - 816 linked holes + power rails and extra non linked<br>
 
 Old Half-naan W: 58mm x H: 73mm <br>
 
