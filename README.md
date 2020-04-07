@@ -12,6 +12,7 @@ Board sizes:
 lil-naan   W: 41.5mm x H: 46.7mm <br>
 Half-naan  W: 53.4mm x H: 70.9mm <br>
 Full-naan  W: 56mm   x H: 96mm <br>
+Xlrg-naan  W: 99.3   x H: 96.9
 
 Old Half-naan W: 58mm x H: 73mm <br>
 
