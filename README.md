@@ -19,5 +19,5 @@ Xlrg-naan  W: 99.3   x H: 96.9 <br>
 
 Old Half-naan W: 58mm x H: 73mm <br>
 
-<img src="https://github.com/jscottb/pcbs/blob/master/naans-in-use.jpg" alt="boads in use" height="225" width="400">
+<img src="https://github.com/jscottb/pcbs/blob/master/naans-in-use.jpg" alt="boads in use" height="225" width="475">
 
