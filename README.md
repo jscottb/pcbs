@@ -23,3 +23,6 @@ Old Half-naan W: 58mm x H: 73mm <br>
 
 <img src="https://github.com/jscottb/pcbs/blob/master/naans-in-use.jpg" alt="boads in use" height="225" width="500">
 
+A salvaged atmega 328p on a lil-naan. <br>
+<img src="https://github.com/jscottb/pcbs/blob/master/lil-328p.jpg" alt="boads in use" height="150" width="300">
+
