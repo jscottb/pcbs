@@ -14,12 +14,15 @@ See the png files for what the boards look like. Note that the half-naan's lette
 
 Board sizes:
 
+micro-naan W: 36.4mm x H: 38.7mm - 180 linked holes - very cheap to do as a 2x3 board panel<br>
 lil-naan   W: 41.5mm x H: 46.7mm - 180 linked holes + power rails and some extra non linked<br>
 Half-naan  W: 53.4mm x H: 70.9mm - 288 linked holes + power rails and some extra non linked<br>
 Full-naan  W: 56mm   x H: 96mm   - 408 linked holes + power rails and some extra non linked<br>
 Xlrg-naan  W: 99.3   x H: 96.9   - 816 linked holes + power rails and extra non linked<br>
 
 Old Half-naan W: 58mm x H: 73mm <br>
+
+Most naan boards have 6 holes per strip side instead of the normal 5 found on breadboards. I find having 6 helps with larger parts and extra room. The lil-naan is the only exception having just 5, but with the added power rails.<br>
 
 <img src="https://github.com/jscottb/pcbs/blob/master/naans-in-use.jpg" alt="boads in use" height="225" width="500">
 
