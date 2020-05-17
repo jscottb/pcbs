@@ -17,10 +17,10 @@ Board sizes:
 tiny-naan-single  W: 22mm   x H: 48mm - Single board gerber of the tiny-naan - 128 linked holes<br>
 tiny-naan (pre-panelized)  W: 22mm   x H: 48mm on a sheet that is 89mm x 96mm with 8 on it - 128 linked holes<br>
 micro-naan W: 36.4mm x H: 38.7mm - Single-sided - 180 linked holes - very cheap to do as a 2x3 board panel<br>
-lil-naan   W: 41.5mm x H: 46.7mm - 180 linked holes + power rails and some extra non linked<br>
-Half-naan  W: 53.4mm x H: 70.9mm - 288 linked holes + power rails and some extra non linked<br>
-Full-naan  W: 56mm   x H: 96mm   - 408 linked holes + power rails and some extra non linked<br>
-Xlrg-naan  W: 99.3   x H: 96.9   - 816 linked holes + power rails and extra non linked<br>
+lil-naan   W: 41.5mm x H: 46.7mm - 180 linked holes + power rails and some extra non-linked<br>
+Half-naan  W: 53.4mm x H: 70.9mm - 288 linked holes + power rails and some extra non-linked<br>
+Full-naan  W: 56mm   x H: 96mm   - 408 linked holes + power rails and some extra non-linked<br>
+Xlrg-naan  W: 99.3   x H: 96.9   - 816 linked holes + power rails and extra non-linked<br>
 
 Old Half-naan W: 58mm x H: 73mm <br>
 
