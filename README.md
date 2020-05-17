@@ -1,7 +1,7 @@
 # Naan BB like pcbs
 
 Simple layouts for breadboard like pcb's I use.  They are cheap to have made from most of the modern off-shore PCB houses. 
-Usually, 13$USD for or so for 10 boards shipped, <b>cheaper if it's your first time ordering</b>. This is much cheaper than many of the pre-made BB like PCB's offered by others and the quality will be much better. You could do first time orders from several houses and get a lot for less money ;)
+Usually, 13$USD for or so for 10 boards shipped, <b>cheaper if it's your first time ordering</b>. This is much cheaper than many of the pre-made BB like PCB's offered by others and the quality will be much better. You could do first time orders from several houses and get a lot PCBs for less money ;)
 
 The XLRG Naan will run about 13$USD shipped for 5 boards.  It's almost 10cm x 2 in size. 
 
