@@ -5,7 +5,7 @@ Usually, it cost around 13$USD for 10 boards to be made and shipped, <b>and it'
 
 The XLRG Naan will run about 13$USD shipped for 5 boards.  It's almost 10cm x 2 in size. 
 
-Note: Some PCB makers have the size cap at 50mm before the price goes up per board. JLCPCB and PCBWay are 100mm before the per board increase. Always check as you enter the board info on the sellers site.
+Note: Some PCB makers have the size cap at 50mm before the price goes up per board. JLCPCB and PCBWay are currently 100mm before the per board increase. Always check as you enter the board info on the sellers site.
 
 See the png files for what the boards look like. Note that the half-naan's lettering is wrong on the image but has been corrected in the gerbers included in the zip file.
 <br>
