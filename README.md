@@ -3,7 +3,7 @@
 
 I love to tinker with electronics and love to solder!  After buying some of the commercially available proto boards I found that the good ones are kind of expensive in any number past just a few and the inexpensive ones are terrible in quality and still require a lot of extra work soldering and running wires that could be eliminated.  There were also a few things I wanted to have with proto boards, like more size options, more connected row holes, and a smaller footprint with little wasted space.  Enter the Naan boards...</b><br>
 
-Simple layouts for breadboard like PCBs I use.  They are inexspensive to have made by most of the modern off-shore PCB houses. 
+Simple layouts for breadboard like PCBs I use.  They are inexpensive to have made by most of the modern off-shore PCB houses. 
 Usually, it cost around 13$USD for 10 boards to be made and shipped, <b>and it's sometimes cheaper if it's your first time ordering</b>. Having them made for yourself should be much cheaper than many of the pre-made BB like PCBs offered by others and the quality will be much better. You could do first time orders from several houses and get a lot PCBs for less money ;)
 
 The XLRG Naan will run about 13$USD shipped for 5 boards.  It's almost 10cm x 2 in size. 
