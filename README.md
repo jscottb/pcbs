@@ -36,7 +36,7 @@ A salvaged atmega 328p on a lil-naan. <br>
 The boards new and old:<br>
 <img src="https://github.com/jscottb/pcbs/blob/master/newboards.jpg" alt="boads" height="220" width="300">
 
-The boards new and old:<br>
+Micro and Tiny:<br>
 <img src="https://github.com/jscottb/pcbs/blob/master/micro_and_tiny.jpg" alt="Micro and Tiny" height="220" width="300">
 
 Some of the new boards up-close: 
