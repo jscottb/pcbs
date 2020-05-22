@@ -33,6 +33,11 @@ Most naan boards have 6 holes per strip side instead of the normal 5 found on mo
 A salvaged atmega 328p on a lil-naan. <br>
 <img src="https://github.com/jscottb/pcbs/blob/master/lil-328p.jpg" alt="boads in use" height="220" width="300">
 
+The boards new and old:<br>
+<img src="https://github.com/jscottb/pcbs/blob/master/newboards.jpg" alt="boads" height="220" width="300">
+
+The boards new and old:<br>
+<img src="https://github.com/jscottb/pcbs/blob/master/micro_and_tiny.jpg" alt="Micro and Tiny" height="220" width="300">
 
 Some of the new boards up-close: 
 https://youtu.be/EHfUHV79Ww8
