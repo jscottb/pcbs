@@ -43,8 +43,8 @@ Micro and Tiny:<br>
 <img src="https://github.com/jscottb/pcbs/blob/master/micro_and_tiny.jpg" alt="Micro and Tiny" height="220" width="300">
 
 Tiny-Naan on an homemade fume extractor:<br>
-<img src="https://github.com/jscottb/pcbs/blob/master/tiny-naan_inu_1.jpg" alt="Tiny" height="280" width="220">
-<img src="https://github.com/jscottb/pcbs/blob/master/tiny-naan_inu_2.jpg" alt="Tiny" height="280" width="220">
+<img src="https://github.com/jscottb/pcbs/blob/master/tiny-naan_inu_1.jpg" alt="Tiny" height="280" width="210">
+<img src="https://github.com/jscottb/pcbs/blob/master/tiny-naan_inu_2.jpg" alt="Tiny" height="280" width="210">
 
 Some of the new boards up-close: 
 https://youtu.be/EHfUHV79Ww8
