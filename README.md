@@ -42,7 +42,8 @@ The boards new and old:<br>
 
 Micro and Tiny:<br>
 <img src="https://github.com/jscottb/pcbs/blob/master/micro_and_tiny.jpg" alt="Micro and Tiny" height="220" width="300">
-
+<img src="https://github.com/jscottb/pcbs/blob/master/attiny13a_on_micro_naan.png alt="Micro with ATtiny13a">
+          
 Tiny-Naan on an homemade fume extractor:<br>
 <img src="https://github.com/jscottb/pcbs/blob/master/tiny-naan_inu_1.jpg" alt="Tiny" height="280" width="180">
 <img src="https://github.com/jscottb/pcbs/blob/master/tiny-naan_inu_2.jpg" alt="Tiny" height="280" width="180">
