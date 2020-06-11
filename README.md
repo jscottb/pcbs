@@ -15,7 +15,7 @@ See the png files for what the boards look like. Note that the half-naan's lette
 
 <u><b>Getting PCBs manufactured:</b></u><br>
 
-Just upload the zip file to the PCB makers site of your choice and enter the size info if needed included below for the board you want to have manufactured.
+Just download the zip file from this site for the PCB you want and upload the that file to the PCB makers site of your choice and enter the size info if needed included below for the board you want to have manufactured.
 
 <u>Board sizes:</u>
 
