@@ -34,7 +34,6 @@ Old Half-naan W: 58mm x H: 73mm <br>
 Most naan boards have 6 holes per strip side instead of the normal 5 found on most breadboards. I find having 6 helps with larger parts and extra room. The lil-naan is the only exception having just 5, but with added power rails. The tiny-naan has 8 and is made for a lot of support components for 555 and power regulator circuits or other small chip designs, like microcontrollers.  The lil-naan and Naan-Jr can be panelized by the PCB maker for a reasonable cost. I know that is true for at least JLCPCB and PCBWay.<br>
 
 <img src="https://github.com/jscottb/pcbs/blob/master/Naan-Boards/img/naans-in-use.jpg" alt="boads in use" height="225" width="500">
-<img src="https://github.com/jscottb/pcbs/blob/master/Naan-Boards/img/naans-in-use.jpg" alt="boads in use" height="225" width="500">
 
 A salvaged atmega 328p on a lil-naan. <br>
 <img src="https://github.com/jscottb/pcbs/blob/master/Naan-Boards/img/lil-328p.jpg" alt="boads in use" height="220" width="300">
