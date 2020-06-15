@@ -33,21 +33,21 @@ Old Half-naan W: 58mm x H: 73mm <br>
 
 Most naan boards have 6 holes per strip side instead of the normal 5 found on most breadboards. I find having 6 helps with larger parts and extra room. The lil-naan is the only exception having just 5, but with added power rails. The tiny-naan has 8 and is made for a lot of support components for 555 and power regulator circuits or other small chip designs, like microcontrollers.  The lil-naan and Naan-Jr can be panelized by the PCB maker for a reasonable cost. I know that is true for at least JLCPCB and PCBWay.<br>
 
-<img src="https://github.com/jscottb/pcbs/blob/master/naans-in-use.jpg" alt="boads in use" height="225" width="500">
+<img src="https://github.com/jscottb/pcbs/blob/master/Naan-Boards/img/naans-in-use.jpg" alt="boads in use" height="225" width="500">
+<img src="https://github.com/jscottb/pcbs/blob/master/Naan-Boards/img/naans-in-use.jpg" alt="boads in use" height="225" width="500">
 
 A salvaged atmega 328p on a lil-naan. <br>
-<img src="https://github.com/jscottb/pcbs/blob/master/lil-328p.jpg" alt="boads in use" height="220" width="300">
+<img src="https://github.com/jscottb/pcbs/blob/master/Naan-Boards/img/lil-328p.jpg" alt="boads in use" height="220" width="300">
 
 The boards new and old:<br>
-<img src="https://github.com/jscottb/pcbs/blob/master/newboards.jpg" alt="boads" height="220" width="300">
+<img src="https://github.com/jscottb/pcbs/blob/master/Naan-Boards/img/newboards.jpg" alt="boads" height="220" width="300">
 
 Micro and Tiny:<br>
-<img src="https://github.com/jscottb/pcbs/blob/master/micro_and_tiny.jpg" alt="Micro and Tiny" height="220" width="300"><br>
-<img src="https://github.com/jscottb/pcbs/blob/master/attiny13a_on_micro_naan.png" alt="Micro with ATtiny13a">
+<img src="https://github.com/jscottb/pcbs/blob/master/Naan-Boards/img/micro_and_tiny.jpg" alt="Micro and Tiny" height="220" width="300"><br>
+<img src="https://github.com/jscottb/pcbs/blob/master/Naan-Boards/img/attiny13a_on_micro_naan.png" alt="Micro with ATtiny13a">
           
 Tiny-Naan on an homemade fume extractor:<br>
-<img src="https://github.com/jscottb/pcbs/blob/master/tiny-naan_inu_1.jpg" alt="Tiny" height="280" width="180">
-<img src="https://github.com/jscottb/pcbs/blob/master/tiny-naan_inu_2.jpg" alt="Tiny" height="280" width="180">
+<img src="https://github.com/jscottb/pcbs/blob/master/Naan-Boards/img/tiny-naan_inu_1.jpg" alt="Tiny" height="280" width="180">
 
 Some of the new boards up-close: 
 https://youtu.be/EHfUHV79Ww8
