@@ -9,4 +9,5 @@ Just download the zip file from this site for the PCB you want and upload the th
 Pic12F board size: H:34mm X W:39mm<br>
 Pic12/16F board size: H:49mm X W:39mm<br><br>
 
-<img src="https://github.com/jscottb/pcbs/blob/master/PIC-Boards/picprotos.jpg">
+<img src="https://github.com/jscottb/pcbs/blob/master/PIC-Boards/picprotos.jpg"><br>
+<img src="https://github.com/jscottb/pcbs/blob/master/PIC-Boards/picsinuse.jpg"><br>
