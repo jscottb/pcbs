@@ -1,4 +1,4 @@
-Pic proto boards
+<b>Pic proto boards</b>
 
 Proto typing boards for the PIC12F and one of the PIC12F/16F chips. The Pic12/16 should work with any PIC that has the same programming and power pin placment as the 12F chips. I will make a list of known chips as time permits.  Each board has room for a voltage regulator (7505 or the like) with input and output caps, a test LED with resistor, 2-terminal screw terminal, programing header, chip pin headers and a small prototyping area.<br><br>
 
