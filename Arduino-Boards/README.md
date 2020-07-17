@@ -6,5 +6,5 @@ Just download the zip file from this site for the PCB you want and upload the th
 
 Nano-BRK V2 board size: H:50mm X W:41mm<br>
 
-<img src="https://github.com/jscottb/pcbs/blob/master/Arduino-Boards/IMG_20200717_075053.jpg" height="250" width="270"><br>
-<img src="https://github.com/jscottb/pcbs/blob/master/Arduino-Boards/IMG_20200717_075845.jpg" height="245" width="275"><br>
+<img src="https://github.com/jscottb/pcbs/blob/master/Arduino-Boards/IMG_20200717_075053.jpg" height="250" width="265"><br>
+<img src="https://github.com/jscottb/pcbs/blob/master/Arduino-Boards/IMG_20200717_075845.jpg" height="250" width="272"><br>
