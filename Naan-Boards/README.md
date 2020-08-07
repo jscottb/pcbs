@@ -24,9 +24,9 @@ tiny-naan (pre-panelized)  W: 22mm   x H: 48mm on a sheet that is 89mm x 96mm wi
 micro-naan W: 36.4mm x H: 38.7mm - Single-sided - 180 linked holes - very cheap to do as a 2x3 board panel<br>
 <b>NOTE: There are Double sided versions of the Tiny and Micro Naans now.  Zip files will have DBL in the file name.</b><br><br>
 lil-naan   W: 41.5mm x H: 46.7mm - 180 linked holes + power rails and some extra non-linked<br>
-<b>Naan-Jr    W: 32mm x H: 52mm -     240 linked holes + center power rail<br></b>
+Naan-Jr    W: 32mm x H: 52mm -     240 linked holes + center power rail<br>
 Half-naan  W: 53.4mm x H: 70.9mm - 288 linked holes + power rails and some extra non-linked<br>
-<b> NEW ** Naan-V8 W: 57mm x H: 72mm - 384 linked holes + power rails and some extra non-linked<br>
+<b> NEW ** Naan-V8 W: 57mm x H: 72mm - 384 linked holes + power rails and some extra non-linked<br></b>
 Naan       W: 56mm   x H: 96mm   - 408 linked holes + power rails and some extra non-linked<br>
 Xlrg-naan  W: 99.3   x H: 96.9   - 816 linked holes + power rails and extra non-linked<br>
 
