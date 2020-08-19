@@ -8,14 +8,14 @@ Usually, it cost around 13$USD for 10 boards to be made and shipped, <b>and it'
 
 The XLRG Naan will run about 13$USD shipped for 5 boards.  It's almost 10cm x 2 in size. 
 
-Note: Some PCB makers have the size cap at 50mm before the price goes up per board. JLCPCB and PCBWay are currently 100mm before the per board increase. Always check as you enter the board info on the sellers site.
+Note: Some PCB makers have the size cap at 50mm before the price goes up per board. PCBWay and other manufacturers are currently 100mm before the per board increase. Always check as you enter the board info on the sellers site.
 
 See the png files for what the boards look like. Note that the half-naan's lettering is wrong on the image but has been corrected in the gerbers included in the zip file.
 <br>
 
 <u><b>Getting PCBs manufactured:</b></u><br>
 
-Just download the zip file from this site for the PCB you want and upload the that file to the PCB makers site of your choice and enter the size info if needed included below for the board you want to have manufactured.
+Just download the zip file from this site for the PCB you want and upload the that file to the PCB manufacturers site of your choice and enter the size info if needed included below for the board you want to have manufactured.
 
 <u>Board sizes:</u>
 
@@ -32,7 +32,7 @@ Xlrg-naan  W: 99.3   x H: 96.9   - 816 linked holes + power rails and extra non-
 
 Old Half-naan W: 58mm x H: 73mm <br>
 
-Most naan boards have 6 holes per strip side instead of the normal 5 found on most breadboards. I find having 6 helps with larger parts and extra room. The lil-naan is the only exception having just 5, but with added power rails. The tiny-naan has 8 and is made for a lot of support components for 555 and power regulator circuits or other small chip designs, like microcontrollers.  The New Naan-V8 has 8 holes per row as well for really wide modules. The lil-naan and Naan-Jr can be panelized by the PCB maker for a reasonable cost. I know that is true for at least JLCPCB and PCBWay.<br>
+Most naan boards have 6 holes per strip side instead of the normal 5 found on most breadboards. I find having 6 helps with larger parts and extra room. The lil-naan is the only exception having just 5, but with added power rails. The tiny-naan has 8 and is made for a lot of support components for 555 and power regulator circuits or other small chip designs, like microcontrollers.  The lil-naan and Naan-Jr can be panelized by the PCB manufacturer for a reasonable cost.<br>
 
 <img src="https://github.com/jscottb/pcbs/blob/master/Naan-Boards/img/naans-in-use.jpg" alt="boads in use" height="225" width="500">
 
