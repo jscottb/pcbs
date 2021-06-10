@@ -22,5 +22,5 @@ The Pro Mini breakout: 40.64 x 56.77<br>
 <img src="https://github.com/jscottb/pcbs/blob/master/Arduino-Boards/promini.png" height="285" width="215"><br>
 <img src="https://github.com/jscottb/pcbs/blob/master/Arduino-Boards/promini2.png" height="300" width="232"><br>
 <br><br>
-New Nano-BRK (V3): 40.64 x 56.77<br>
-<img src="https://github.com/jscottb/pcbs/blob/master/Arduino-Boards/nano_brk_v3.png" height="285" width="215"><br>
+New Nano-BRK (V3): 40.64 x 61.09<br>
+<img src="https://github.com/jscottb/pcbs/blob/master/Arduino-Boards/nano_brk_v3.png" height="300" width="215"><br>
