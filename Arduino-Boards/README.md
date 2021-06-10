@@ -21,3 +21,6 @@ Nano-BRK V2 board size: H:50mm X W:41mm<br>
 The Pro Mini breakout: 40.64 x 56.77<br>
 <img src="https://github.com/jscottb/pcbs/blob/master/Arduino-Boards/promini.png" height="285" width="215"><br>
 <img src="https://github.com/jscottb/pcbs/blob/master/Arduino-Boards/promini2.png" height="300" width="232"><br>
+<br><br>
+New Nano-BRK (V3): 40.64 x 56.77<br>
+<img src="https://github.com/jscottb/pcbs/blob/master/Arduino-Boards/nano_brk_v3.png" height="285" width="215"><br>
